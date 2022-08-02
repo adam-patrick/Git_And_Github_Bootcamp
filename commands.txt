@@ -1,0 +1,17 @@
+ls - looks at contents of folder
+ls -a - shows hidden files
+start . - opens file explorer/folder
+pwd - prints current location
+cd - move to another location
+.. - go back one. example/ cd .. goes back one.   ls .. looks at the contents of the previous folder in the chain
+touch - create something
+mkdir - create new folder
+rm - delete file (permanently. DOES NOT GO INTO RECYCLE BIN!!!)
+rm -rf - delete folder/directory
+
+git add - add file to be committed
+git add . - add all files to be committed at once
+git commit - commit
+git commit -m - commit with message
+git status - status of git stuff in directory
+git log - log of every commit
